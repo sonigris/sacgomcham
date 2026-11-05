@@ -1,0 +1,8 @@
+{
+  "name": "SẮC GỐM CHĂM – Nghệ thuật làm gốm của người Chăm",
+  "description": "Không gian lưu trữ, giới thiệu và bảo tồn tư liệu về nghệ thuật làm gốm truyền thống của người Chăm tại làng gốm Trì Đức (Ligok, Bình Thuận) và làng gốm Bàu Trúc (Hamu Crok, Ninh Thuận).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
